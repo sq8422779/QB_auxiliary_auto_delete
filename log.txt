@@ -1,0 +1,58 @@
+当前时间:2024-04-11 08:43:25
+连接到 qBittorrent...
+查找上传活动已经超过 7 天的种子...
+当前时间:2024-04-11 08:44:32
+符合条件的种子数量:0/123
+连接到 qBittorrent...
+查找上传活动已经超过 7 天的种子...
+当前时间:2024-04-11 08:48:45
+种子文件名: 求偶游戏.The.Mating.Game.S01.2021.4k.WEB-DL.H.264.AAC-RLWeb, 删除倒计时: 0天 16小时 38分钟 21秒
+种子文件名: Luxion.KeyShot.Enteprise.2024.1.v13.0.0.92.x64.WIN, 删除倒计时: 0天 17小时 9分钟 11秒
+符合条件的种子数量:0/123
+连接到 qBittorrent...
+查找上传活动已经超过 7 天的种子...
+当前时间:2024-04-11 08:49:58
+种子文件名: 求偶游戏.The.Mating.Game.S01.2021.4k.WEB-DL.H.264.AAC-RLWeb, 删除倒计时: 0天 16小时 37分钟 8秒
+种子文件名: Luxion.KeyShot.Enteprise.2024.1.v13.0.0.92.x64.WIN, 删除倒计时: 0天 17小时 7分钟 58秒
+符合条件的种子数量:0/123
+下一次处理任务将在 3600 后开始
+连接到 qBittorrent...
+查找上传活动已经超过 7 天的种子...
+当前时间:2024-04-11 08:50:30
+种子文件名: 求偶游戏.The.Mating.Game.S01.2021.4k.WEB-DL.H.264.AAC-RLWeb, 删除倒计时: 0天 16小时 36分钟 36秒
+种子文件名: Luxion.KeyShot.Enteprise.2024.1.v13.0.0.92.x64.WIN, 删除倒计时: 0天 17小时 7分钟 26秒
+符合条件的种子数量:0/123
+下一次处理任务将在 01:00:00 ,后开始
+连接到 qBittorrent...
+查找上传活动已经超过 7 天的种子...
+当前时间:2024-04-11 09:00:10
+种子文件名: 求偶游戏.The.Mating.Game.S01.2021.4k.WEB-DL.H.264.AAC-RLWeb, 删除倒计时: 0天 16小时 26分钟 56秒
+种子文件名: Luxion.KeyShot.Enteprise.2024.1.v13.0.0.92.x64.WIN, 删除倒计时: 0天 16小时 57分钟 46秒
+符合条件的种子数量:0/124
+下一次处理任务将在 01:00:00 ,后开始
+连接到 qBittorrent...
+查找上传活动已经超过 6 天的种子...
+当前时间:2024-04-11 09:01:30
+种子文件名: 3.Body.Problem.S01.2024.2160p.NF.WEB-DL.DDP5.1.Atmos.DV.H.265-HHWEB, 删除倒计时: 0天 3小时 25分钟 23秒
+种子文件名: 暗河传.Tales.of.Dark.River.S01.2023.2160p.WEB-DL.H265.AAC-OurTV, 删除倒计时: 0天 9小时 16分钟 33秒
+符合条件的种子数量:5/124
+检查种子是否有辅种: Killers.of.the.Flower.Moon.2023.UHD.BluRay.2160p.10bit.HDR.DTS-HD.MA.5.1.x265-beAst
+未找到 Killers.of.the.Flower.Moon.2023.UHD.BluRay.2160p.10bit.HDR.DTS-HD.MA.5.1.x265-beAst 的重复种子，应当删除种子和文件。
+检查种子是否有辅种: The.Iron.Claw.2023.COMPLETE.BLURAY-iNTEGRUM
+未找到 The.Iron.Claw.2023.COMPLETE.BLURAY-iNTEGRUM 的重复种子，应当删除种子和文件。
+检查种子是否有辅种: 求偶游戏.The.Mating.Game.S01.2021.4k.WEB-DL.H.264.AAC-RLWeb
+未找到 求偶游戏.The.Mating.Game.S01.2021.4k.WEB-DL.H.264.AAC-RLWeb 的重复种子，应当删除种子和文件。
+检查种子是否有辅种: Gorp 1980 1080p Blu-ray AVC DTS-HD MA 2.0-NiXFLiX
+未找到 Gorp 1980 1080p Blu-ray AVC DTS-HD MA 2.0-NiXFLiX 的重复种子，应当删除种子和文件。
+检查种子是否有辅种: Luxion.KeyShot.Enteprise.2024.1.v13.0.0.92.x64.WIN
+发现 Luxion.KeyShot.Enteprise.2024.1.v13.0.0.92.x64.WIN 的重复种子，删除任务...
+下一次处理任务将在 01:00:00 ,后开始
+连接到 qBittorrent...
+查找上传活动已经超过 6 天的种子...
+当前时间:2024-04-11 16:43:53
+种子文件名: 暗河传.Tales.of.Dark.River.S01.2023.2160p.WEB-DL.H265.AAC-OurTV, 删除倒计时: 0天 1小时 34分钟 11秒
+种子文件名: No.Way.Home.S01.2024.1080p.WEB-DL.AAC.H264-JKCT, 删除倒计时: 0天 3小时 14分钟 56秒
+符合条件的种子数量:1/121
+检查种子是否有辅种: 3.Body.Problem.S01.2024.2160p.NF.WEB-DL.DDP5.1.Atmos.DV.H.265-HHWEB
+未找到 3.Body.Problem.S01.2024.2160p.NF.WEB-DL.DDP5.1.Atmos.DV.H.265-HHWEB 的重复种子，应当删除种子和文件。
+下一次处理任务将在 01:00:00 ,后开始
