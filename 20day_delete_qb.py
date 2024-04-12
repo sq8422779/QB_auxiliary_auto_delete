@@ -13,7 +13,6 @@ qbittorrent_password = config['qBittorrent']['password']
 days_threshold = int(config['Settings']['days_threshold'])
 next_process_interval_minutes = int(config['Settings']['next_process_interval_minutes'])
 
-
 def log_to_file(message):
     with open('log.txt', 'a', encoding='utf-8') as logfile:
         logfile.write(message + '\n')
